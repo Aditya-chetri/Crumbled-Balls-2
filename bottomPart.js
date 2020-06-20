@@ -23,6 +23,6 @@ class BottomPart {
       //fill("red");
       //rect(0, 0, this.width, this.height);
       //pop();
-      image(this.image, pos.x, 580, this.width, this.height);
+      image(this.image, pos.x, 540, this.width, this.height);
     }
   };
