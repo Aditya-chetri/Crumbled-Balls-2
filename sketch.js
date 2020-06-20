@@ -21,7 +21,7 @@ function setup() {
   
   platform = new Ground(400, 680, 800, 40);
   paper = new Ball(100, 672, 35, 35);
-  part1 = new BottomPart(539, 700, 165, 120);
+  part1 = new BottomPart(539, 700, 200, 120);
   part2 = new DustbinPart(550, 620, 10, 80);
   part3 = new DustbinPart(690, 620, 10, 80);
   
